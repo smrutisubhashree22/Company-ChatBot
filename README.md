@@ -1,6 +1,17 @@
-# React + Vite
+**<h1>Built with </h1>**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1.React.js with Vite
+
+2.CSS3
+
+3.Gemini AI API Integration for dynamic response functionality
+
+4.Node js 
+
+**DEMO:**
+![Image](https://github.com/user-attachments/assets/4e977cf5-e4bb-4ea6-9d7f-2a6329ae8acb)
+---
+
 
 Currently, two official plugins are available:
 
